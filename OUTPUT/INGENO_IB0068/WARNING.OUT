@@ -1,0 +1,2545 @@
+*WARNING DETAIL FILE
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   1        : Mar_1_50N_Rainfed                  UFGA0002    1
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  1   : Mar_1_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   2        : Mar_1_100N_Rainfed                 UFGA0002    2
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  2   : Mar_1_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   3        : Mar_1_150N_Rainfed                 UFGA0002    3
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  3   : Mar_1_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   4        : Mar_1_200N_Rainfed                 UFGA0002    4
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  4   : Mar_1_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   5        : Mar_1_250N_Rainfed                 UFGA0002    5
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  5   : Mar_1_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   6        : Mar_1_300N_Rainfed                 UFGA0002    6
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  6   : Mar_1_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   7        : Mar_1_350N_Rainfed                 UFGA0002    7
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  7   : Mar_1_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   8        : Mar_1_400N_Rainfed                 UFGA0002    8
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  8   : Mar_1_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN   9        : Mar_2_50N_Rainfed                  UFGA0002    9
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT  9   : Mar_2_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN  10        : Mar_2_100N_Rainfed                 UFGA0002   10
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 10   : Mar_2_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN  11        : Mar_2_150N_Rainfed                 UFGA0002   11
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 11   : Mar_2_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN  12        : Mar_2_200N_Rainfed                 UFGA0002   12
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 12   : Mar_2_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN  13        : Mar_2_250N_Rainfed                 UFGA0002   13
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 13   : Mar_2_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:54:59
+
+*RUN  14        : Mar_2_300N_Rainfed                 UFGA0002   14
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 14   : Mar_2_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  15        : Mar_2_350N_Rainfed                 UFGA0002   15
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 15   : Mar_2_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  16        : Mar_2_400N_Rainfed                 UFGA0002   16
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 16   : Mar_2_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  17        : Mar_3_50N_Rainfed                  UFGA0002   17
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 17   : Mar_3_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  18        : Mar_3_100N_Rainfed                 UFGA0002   18
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 18   : Mar_3_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  19        : Mar_3_150N_Rainfed                 UFGA0002   19
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 19   : Mar_3_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  20        : Mar_3_200N_Rainfed                 UFGA0002   20
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 20   : Mar_3_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  21        : Mar_3_250N_Rainfed                 UFGA0002   21
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 21   : Mar_3_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  22        : Mar_3_300N_Rainfed                 UFGA0002   22
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 22   : Mar_3_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  23        : Mar_3_350N_Rainfed                 UFGA0002   23
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 23   : Mar_3_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  24        : Mar_3_400N_Rainfed                 UFGA0002   24
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 24   : Mar_3_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  25        : Apr_1_50N_Rainfed                  UFGA0002   25
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 25   : Apr_1_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  26        : Apr_1_100N_Rainfed                 UFGA0002   26
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 26   : Apr_1_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  27        : Apr_1_150N_Rainfed                 UFGA0002   27
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 27   : Apr_1_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  28        : Apr_1_200N_Rainfed                 UFGA0002   28
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 28   : Apr_1_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  29        : Apr_1_250N_Rainfed                 UFGA0002   29
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 29   : Apr_1_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  30        : Apr_1_300N_Rainfed                 UFGA0002   30
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 30   : Apr_1_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  31        : Apr_1_350N_Rainfed                 UFGA0002   31
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 31   : Apr_1_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  32        : Apr_1_400N_Rainfed                 UFGA0002   32
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 32   : Apr_1_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  33        : Apr_2_50N_Rainfed                  UFGA0002   33
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 33   : Apr_2_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  34        : Apr_2_100N_Rainfed                 UFGA0002   34
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 34   : Apr_2_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  35        : Apr_2_150N_Rainfed                 UFGA0002   35
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 35   : Apr_2_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  36        : Apr_2_200N_Rainfed                 UFGA0002   36
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 36   : Apr_2_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  37        : Apr_2_250N_Rainfed                 UFGA0002   37
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 37   : Apr_2_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  38        : Apr_2_300N_Rainfed                 UFGA0002   38
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 38   : Apr_2_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  39        : Apr_2_350N_Rainfed                 UFGA0002   39
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 39   : Apr_2_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  40        : Apr_2_400N_Rainfed                 UFGA0002   40
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 40   : Apr_2_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  41        : Apr_3_50N_Rainfed                  UFGA0002   41
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 41   : Apr_3_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  42        : Apr_3_100N_Rainfed                 UFGA0002   42
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 42   : Apr_3_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  43        : Apr_3_150N_Rainfed                 UFGA0002   43
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 43   : Apr_3_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  44        : Apr_3_200N_Rainfed                 UFGA0002   44
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 44   : Apr_3_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  45        : Apr_3_250N_Rainfed                 UFGA0002   45
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 45   : Apr_3_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:00
+
+*RUN  46        : Apr_3_300N_Rainfed                 UFGA0002   46
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 46   : Apr_3_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  47        : Apr_3_350N_Rainfed                 UFGA0002   47
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 47   : Apr_3_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  48        : Apr_3_400N_Rainfed                 UFGA0002   48
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 48   : Apr_3_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  49        : May_1_50N_Rainfed                  UFGA0002   49
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 49   : May_1_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  50        : May_1_100N_Rainfed                 UFGA0002   50
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 50   : May_1_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  51        : May_1_150N_Rainfed                 UFGA0002   51
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 51   : May_1_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  52        : May_1_200N_Rainfed                 UFGA0002   52
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 52   : May_1_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  53        : May_1_250N_Rainfed                 UFGA0002   53
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 53   : May_1_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  54        : May_1_300N_Rainfed                 UFGA0002   54
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 54   : May_1_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  55        : May_1_350N_Rainfed                 UFGA0002   55
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 55   : May_1_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  56        : May_1_400N_Rainfed                 UFGA0002   56
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 56   : May_1_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  57        : May_2_50N_Rainfed                  UFGA0002   57
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 57   : May_2_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  58        : May_2_100N_Rainfed                 UFGA0002   58
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 58   : May_2_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  59        : May_2_150N_Rainfed                 UFGA0002   59
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 59   : May_2_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  60        : May_2_200N_Rainfed                 UFGA0002   60
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 60   : May_2_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  61        : May_2_250N_Rainfed                 UFGA0002   61
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 61   : May_2_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  62        : May_2_300N_Rainfed                 UFGA0002   62
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 62   : May_2_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  63        : May_2_350N_Rainfed                 UFGA0002   63
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 63   : May_2_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  64        : May_2_400N_Rainfed                 UFGA0002   64
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 64   : May_2_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  65        : May_3_50N_Rainfed                  UFGA0002   65
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 65   : May_3_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  66        : May_3_100N_Rainfed                 UFGA0002   66
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 66   : May_3_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  67        : May_3_150N_Rainfed                 UFGA0002   67
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 67   : May_3_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  68        : May_3_200N_Rainfed                 UFGA0002   68
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 68   : May_3_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  69        : May_3_250N_Rainfed                 UFGA0002   69
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 69   : May_3_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  70        : May_3_300N_Rainfed                 UFGA0002   70
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 70   : May_3_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  71        : May_3_350N_Rainfed                 UFGA0002   71
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 71   : May_3_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  72        : May_3_400N_Rainfed                 UFGA0002   72
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 72   : May_3_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  73        : Jun_1_50N_Rainfed                  UFGA0002   73
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 73   : Jun_1_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  74        : Jun_1_100N_Rainfed                 UFGA0002   74
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 74   : Jun_1_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  75        : Jun_1_150N_Rainfed                 UFGA0002   75
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 75   : Jun_1_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:01
+
+*RUN  76        : Jun_1_200N_Rainfed                 UFGA0002   76
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 76   : Jun_1_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  77        : Jun_1_250N_Rainfed                 UFGA0002   77
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 77   : Jun_1_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  78        : Jun_1_300N_Rainfed                 UFGA0002   78
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 78   : Jun_1_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  79        : Jun_1_350N_Rainfed                 UFGA0002   79
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 79   : Jun_1_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  80        : Jun_1_400N_Rainfed                 UFGA0002   80
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 80   : Jun_1_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  81        : Jun_2_50N_Rainfed                  UFGA0002   81
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 81   : Jun_2_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 301
+   Crop mature on JD 301 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  82        : Jun_2_100N_Rainfed                 UFGA0002   82
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 82   : Jun_2_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 301
+   Crop mature on JD 301 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  83        : Jun_2_150N_Rainfed                 UFGA0002   83
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 83   : Jun_2_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  84        : Jun_2_200N_Rainfed                 UFGA0002   84
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 84   : Jun_2_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  85        : Jun_2_250N_Rainfed                 UFGA0002   85
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 85   : Jun_2_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  86        : Jun_2_300N_Rainfed                 UFGA0002   86
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 86   : Jun_2_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  87        : Jun_2_350N_Rainfed                 UFGA0002   87
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 87   : Jun_2_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  88        : Jun_2_400N_Rainfed                 UFGA0002   88
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 88   : Jun_2_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  89        : Jun_3_50N_Rainfed                  UFGA0002   89
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 89   : Jun_3_50N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 301
+   Crop mature on JD 301 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  90        : Jun_3_100N_Rainfed                 UFGA0002   90
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 90   : Jun_3_100N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  91        : Jun_3_150N_Rainfed                 UFGA0002   91
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 91   : Jun_3_150N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  92        : Jun_3_200N_Rainfed                 UFGA0002   92
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 92   : Jun_3_200N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  93        : Jun_3_250N_Rainfed                 UFGA0002   93
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 93   : Jun_3_250N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  94        : Jun_3_300N_Rainfed                 UFGA0002   94
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 94   : Jun_3_300N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  95        : Jun_3_350N_Rainfed                 UFGA0002   95
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 95   : Jun_3_350N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -develop  JUL 14, 2025 18:55:02
+
+*RUN  96        : Jun_3_400N_Rainfed                 UFGA0002   96
+
+ EXPERIMENT     : UFGA0002 SN X
+ DATA PATH      :
+ TREATMENT 96   : Jun_3_400N_Rainfed
+  
+
+ MODELN  YEAR DOY =    0   0
+ Invalid model specified.                                                      
+ Crop: MZ; Model:   MZC048                                                     
+ Use default model from DSSATPRO.                                              
+
+ SOILNI  YEAR DOY = 2018   0
+ N content of residue was changed from value in initial conditions             
+   section of experiment file to maintain allowable C:N ratio.                 
+   - Previous crop code                 :    MZ                                
+   - Recommended N content for surface residue (%):   1.1                      
+   - Value read from file               : 6.000%                               
+   - Value changed to                   : 1.320%                               
+ To change allowable N content, modify SCN parameter                           
+   in RESCH048.SDA file.                                                       
+
+ MZ_GRO  YEAR DOY = 2018 302
+   Crop mature on JD 302 due to slowed grain filling                           

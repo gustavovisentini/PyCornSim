@@ -1,0 +1,185 @@
+*EXP.DETAILS: UFGA0001.SNX
+
+*GENERAL
+@PEOPLE
+Gustavo Visentini
+@ADDRESS
+University of Florida
+@SITE
+US
+
+@ PAREA  PRNO  PLEN  PLDR  PLSP  PLAY HAREA  HRNO  HLEN  HARM.........
+    -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+
+*TREATMENTS                        -------------FACTOR LEVELS------------
+@N R O C TNAME.................... CU FL SA IC MP MI MF MR MC MT ME MH SM
+ 1 1 1 0 Mar_1_50N_Rainfed          1  1  0  1  1  0  1  0  0  0  0  0  1
+ 2 1 1 0 Mar_1_100N_Rainfed         1  1  0  1  1  0  2  0  0  0  0  0  1
+ 3 1 1 0 Mar_1_150N_Rainfed         1  1  0  1  1  0  3  0  0  0  0  0  1
+ 4 1 1 0 Mar_1_200N_Rainfed         1  1  0  1  1  0  4  0  0  0  0  0  1
+ 5 1 1 0 Mar_1_250N_Rainfed         1  1  0  1  1  0  5  0  0  0  0  0  1
+ 6 1 1 0 Mar_1_300N_Rainfed         1  1  0  1  1  0  6  0  0  0  0  0  1
+ 7 1 1 0 Mar_1_350N_Rainfed         1  1  0  1  1  0  7  0  0  0  0  0  1
+ 8 1 1 0 Mar_1_400N_Rainfed         1  1  0  1  1  0  8  0  0  0  0  0  1
+ 9 1 1 0 Mar_2_50N_Rainfed          1  1  0  1  2  0  1  0  0  0  0  0  1
+10 1 1 0 Mar_2_100N_Rainfed         1  1  0  1  2  0  2  0  0  0  0  0  1
+11 1 1 0 Mar_2_150N_Rainfed         1  1  0  1  2  0  3  0  0  0  0  0  1
+12 1 1 0 Mar_2_200N_Rainfed         1  1  0  1  2  0  4  0  0  0  0  0  1
+13 1 1 0 Mar_2_250N_Rainfed         1  1  0  1  2  0  5  0  0  0  0  0  1
+14 1 1 0 Mar_2_300N_Rainfed         1  1  0  1  2  0  6  0  0  0  0  0  1
+15 1 1 0 Mar_2_350N_Rainfed         1  1  0  1  2  0  7  0  0  0  0  0  1
+16 1 1 0 Mar_2_400N_Rainfed         1  1  0  1  2  0  8  0  0  0  0  0  1
+17 1 1 0 Mar_3_50N_Rainfed          1  1  0  1  3  0  1  0  0  0  0  0  1
+18 1 1 0 Mar_3_100N_Rainfed         1  1  0  1  3  0  2  0  0  0  0  0  1
+19 1 1 0 Mar_3_150N_Rainfed         1  1  0  1  3  0  3  0  0  0  0  0  1
+20 1 1 0 Mar_3_200N_Rainfed         1  1  0  1  3  0  4  0  0  0  0  0  1
+21 1 1 0 Mar_3_250N_Rainfed         1  1  0  1  3  0  5  0  0  0  0  0  1
+22 1 1 0 Mar_3_300N_Rainfed         1  1  0  1  3  0  6  0  0  0  0  0  1
+23 1 1 0 Mar_3_350N_Rainfed         1  1  0  1  3  0  7  0  0  0  0  0  1
+24 1 1 0 Mar_3_400N_Rainfed         1  1  0  1  3  0  8  0  0  0  0  0  1
+25 1 1 0 Apr_1_50N_Rainfed          1  1  0  1  4  0  1  0  0  0  0  0  1
+26 1 1 0 Apr_1_100N_Rainfed         1  1  0  1  4  0  2  0  0  0  0  0  1
+27 1 1 0 Apr_1_150N_Rainfed         1  1  0  1  4  0  3  0  0  0  0  0  1
+28 1 1 0 Apr_1_200N_Rainfed         1  1  0  1  4  0  4  0  0  0  0  0  1
+29 1 1 0 Apr_1_250N_Rainfed         1  1  0  1  4  0  5  0  0  0  0  0  1
+30 1 1 0 Apr_1_300N_Rainfed         1  1  0  1  4  0  6  0  0  0  0  0  1
+31 1 1 0 Apr_1_350N_Rainfed         1  1  0  1  4  0  7  0  0  0  0  0  1
+32 1 1 0 Apr_1_400N_Rainfed         1  1  0  1  4  0  8  0  0  0  0  0  1
+33 1 1 0 Apr_2_50N_Rainfed          1  1  0  1  5  0  1  0  0  0  0  0  1
+34 1 1 0 Apr_2_100N_Rainfed         1  1  0  1  5  0  2  0  0  0  0  0  1
+35 1 1 0 Apr_2_150N_Rainfed         1  1  0  1  5  0  3  0  0  0  0  0  1
+36 1 1 0 Apr_2_200N_Rainfed         1  1  0  1  5  0  4  0  0  0  0  0  1
+37 1 1 0 Apr_2_250N_Rainfed         1  1  0  1  5  0  5  0  0  0  0  0  1
+38 1 1 0 Apr_2_300N_Rainfed         1  1  0  1  5  0  6  0  0  0  0  0  1
+39 1 1 0 Apr_2_350N_Rainfed         1  1  0  1  5  0  7  0  0  0  0  0  1
+40 1 1 0 Apr_2_400N_Rainfed         1  1  0  1  5  0  8  0  0  0  0  0  1
+41 1 1 0 Apr_3_50N_Rainfed          1  1  0  1  6  0  1  0  0  0  0  0  1
+42 1 1 0 Apr_3_100N_Rainfed         1  1  0  1  6  0  2  0  0  0  0  0  1
+43 1 1 0 Apr_3_150N_Rainfed         1  1  0  1  6  0  3  0  0  0  0  0  1
+44 1 1 0 Apr_3_200N_Rainfed         1  1  0  1  6  0  4  0  0  0  0  0  1
+45 1 1 0 Apr_3_250N_Rainfed         1  1  0  1  6  0  5  0  0  0  0  0  1
+46 1 1 0 Apr_3_300N_Rainfed         1  1  0  1  6  0  6  0  0  0  0  0  1
+47 1 1 0 Apr_3_350N_Rainfed         1  1  0  1  6  0  7  0  0  0  0  0  1
+48 1 1 0 Apr_3_400N_Rainfed         1  1  0  1  6  0  8  0  0  0  0  0  1
+49 1 1 0 May_1_50N_Rainfed          1  1  0  1  7  0  1  0  0  0  0  0  1
+50 1 1 0 May_1_100N_Rainfed         1  1  0  1  7  0  2  0  0  0  0  0  1
+51 1 1 0 May_1_150N_Rainfed         1  1  0  1  7  0  3  0  0  0  0  0  1
+52 1 1 0 May_1_200N_Rainfed         1  1  0  1  7  0  4  0  0  0  0  0  1
+53 1 1 0 May_1_250N_Rainfed         1  1  0  1  7  0  5  0  0  0  0  0  1
+54 1 1 0 May_1_300N_Rainfed         1  1  0  1  7  0  6  0  0  0  0  0  1
+55 1 1 0 May_1_350N_Rainfed         1  1  0  1  7  0  7  0  0  0  0  0  1
+56 1 1 0 May_1_400N_Rainfed         1  1  0  1  7  0  8  0  0  0  0  0  1
+57 1 1 0 May_2_50N_Rainfed          1  1  0  1  8  0  1  0  0  0  0  0  1
+58 1 1 0 May_2_100N_Rainfed         1  1  0  1  8  0  2  0  0  0  0  0  1
+59 1 1 0 May_2_150N_Rainfed         1  1  0  1  8  0  3  0  0  0  0  0  1
+60 1 1 0 May_2_200N_Rainfed         1  1  0  1  8  0  4  0  0  0  0  0  1
+61 1 1 0 May_2_250N_Rainfed         1  1  0  1  8  0  5  0  0  0  0  0  1
+62 1 1 0 May_2_300N_Rainfed         1  1  0  1  8  0  6  0  0  0  0  0  1
+63 1 1 0 May_2_350N_Rainfed         1  1  0  1  8  0  7  0  0  0  0  0  1
+64 1 1 0 May_2_400N_Rainfed         1  1  0  1  8  0  8  0  0  0  0  0  1
+65 1 1 0 May_3_50N_Rainfed          1  1  0  1  9  0  1  0  0  0  0  0  1
+66 1 1 0 May_3_100N_Rainfed         1  1  0  1  9  0  2  0  0  0  0  0  1
+67 1 1 0 May_3_150N_Rainfed         1  1  0  1  9  0  3  0  0  0  0  0  1
+68 1 1 0 May_3_200N_Rainfed         1  1  0  1  9  0  4  0  0  0  0  0  1
+69 1 1 0 May_3_250N_Rainfed         1  1  0  1  9  0  5  0  0  0  0  0  1
+70 1 1 0 May_3_300N_Rainfed         1  1  0  1  9  0  6  0  0  0  0  0  1
+71 1 1 0 May_3_350N_Rainfed         1  1  0  1  9  0  7  0  0  0  0  0  1
+72 1 1 0 May_3_400N_Rainfed         1  1  0  1  9  0  8  0  0  0  0  0  1
+73 1 1 0 Jun_1_50N_Rainfed          1  1  0  1 10  0  1  0  0  0  0  0  1
+74 1 1 0 Jun_1_100N_Rainfed         1  1  0  1 10  0  2  0  0  0  0  0  1
+75 1 1 0 Jun_1_150N_Rainfed         1  1  0  1 10  0  3  0  0  0  0  0  1
+76 1 1 0 Jun_1_200N_Rainfed         1  1  0  1 10  0  4  0  0  0  0  0  1
+77 1 1 0 Jun_1_250N_Rainfed         1  1  0  1 10  0  5  0  0  0  0  0  1
+78 1 1 0 Jun_1_300N_Rainfed         1  1  0  1 10  0  6  0  0  0  0  0  1
+79 1 1 0 Jun_1_350N_Rainfed         1  1  0  1 10  0  7  0  0  0  0  0  1
+80 1 1 0 Jun_1_400N_Rainfed         1  1  0  1 10  0  8  0  0  0  0  0  1
+81 1 1 0 Jun_2_50N_Rainfed          1  1  0  1 11  0  1  0  0  0  0  0  1
+82 1 1 0 Jun_2_100N_Rainfed         1  1  0  1 11  0  2  0  0  0  0  0  1
+83 1 1 0 Jun_2_150N_Rainfed         1  1  0  1 11  0  3  0  0  0  0  0  1
+84 1 1 0 Jun_2_200N_Rainfed         1  1  0  1 11  0  4  0  0  0  0  0  1
+85 1 1 0 Jun_2_250N_Rainfed         1  1  0  1 11  0  5  0  0  0  0  0  1
+86 1 1 0 Jun_2_300N_Rainfed         1  1  0  1 11  0  6  0  0  0  0  0  1
+87 1 1 0 Jun_2_350N_Rainfed         1  1  0  1 11  0  7  0  0  0  0  0  1
+88 1 1 0 Jun_2_400N_Rainfed         1  1  0  1 11  0  8  0  0  0  0  0  1
+89 1 1 0 Jun_3_50N_Rainfed          1  1  0  1 12  0  1  0  0  0  0  0  1
+90 1 1 0 Jun_3_100N_Rainfed         1  1  0  1 12  0  2  0  0  0  0  0  1
+91 1 1 0 Jun_3_150N_Rainfed         1  1  0  1 12  0  3  0  0  0  0  0  1
+92 1 1 0 Jun_3_200N_Rainfed         1  1  0  1 12  0  4  0  0  0  0  0  1
+93 1 1 0 Jun_3_250N_Rainfed         1  1  0  1 12  0  5  0  0  0  0  0  1
+94 1 1 0 Jun_3_300N_Rainfed         1  1  0  1 12  0  6  0  0  0  0  0  1
+95 1 1 0 Jun_3_350N_Rainfed         1  1  0  1 12  0  7  0  0  0  0  0  1
+96 1 1 0 Jun_3_400N_Rainfed         1  1  0  1 12  0  8  0  0  0  0  0  1
+
+*CULTIVARS
+@C CR INGENO CNAME
+ 1 MZ IB0068 PIO 3475
+
+*FIELDS
+@L ID_FIELD WSTA....  FLSA  FLOB  FLDT  FLDD  FLDS  FLST SLTX  SLDP  ID_SOIL    FLNAME
+ 1 Generic  WSTATION   -99   -99   -99   -99   -99   -99 -99    -99  US02489372 US maize
+@L ...........XCRD ...........YCRD .....ELEV .............AREA .SLEN .FLWR .SLAS FLHST FHDUR
+ 1             -99             -99       -99               -99   -99   -99   -99   -99     1
+
+*INITIAL CONDITIONS
+!ICREN is the nitrogen level mensured by location, here needs puts the correct value get from sensor
+@C   PCR ICDAT  ICRT  ICND  ICRN  ICRE  ICWD ICRES ICREN ICREP ICRIP ICRID ICNAME
+ 1    MZ 180001  1000   -99     1     1   -99  3000    60   -99   100     5    -99
+@C  ICBL  SH2O  SNH4  SNO3
+
+*PLANTING DETAILS
+@P PDATE EDATE  PPOP  PPOE  PLME  PLDS  PLRS  PLRD  PLDP  PLWT  PAGE  PENV  PLPH  SPRL                        PLNAME
+ 1 18060   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Mar_1
+ 2 18069   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Mar_2
+ 3 18081   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Mar_3
+ 4 18092   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Apr_1
+ 5 18103   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Apr_2
+ 6 18114   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Apr_3
+ 7 18125   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        May_1
+ 8 18136   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        May_2
+ 9 18147   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        May_3
+10 18156   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Jun_1
+11 18165   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Jun_2
+12 18174   -99   8.0   8.0     S     R    76   -99     5   -99   -99   -99   -99   -99                        Jun_3
+
+*FERTILIZERS (INORGANIC)
+@F FDATE  FMCD  FACD  FDEP  FAMN  FAMP  FAMK  FAMC  FAMO  FOCD FERNAME
+ 1     0 FE005 AP002     5  25.0   -99   -99   -99   -99   -99 Urea_25_0DAP
+ 1    30 FE005 AP001     1  25.0   -99   -99   -99   -99   -99 Urea_25_30DAP
+ 2     0 FE005 AP002     5  50.0   -99   -99   -99   -99   -99 Urea_50_0DAP
+ 2    30 FE005 AP001     1  50.0   -99   -99   -99   -99   -99 Urea_50_30DAP
+ 3     0 FE005 AP002     5  75.0   -99   -99   -99   -99   -99 Urea_75_0DAP
+ 3    30 FE005 AP001     1  75.0   -99   -99   -99   -99   -99 Urea_75_30DAP
+ 4     0 FE005 AP002     5 100.0   -99   -99   -99   -99   -99 Urea_100_0DAP
+ 4    30 FE005 AP001     1 100.0   -99   -99   -99   -99   -99 Urea_100_30DAP
+ 5     0 FE005 AP002     5 125.0   -99   -99   -99   -99   -99 Urea_125_0DAP
+ 5    30 FE005 AP001     1 125.0   -99   -99   -99   -99   -99 Urea_125_30DAP
+ 6     0 FE005 AP002     5 150.0   -99   -99   -99   -99   -99 Urea_150_0DAP
+ 6    30 FE005 AP001     1 150.0   -99   -99   -99   -99   -99 Urea_150_30DAP
+ 7     0 FE005 AP002     5 175.0   -99   -99   -99   -99   -99 Urea_175_0DAP
+ 7    30 FE005 AP001     1 175.0   -99   -99   -99   -99   -99 Urea_175_30DAP
+ 8     0 FE005 AP002     5 200.0   -99   -99   -99   -99   -99 Urea_200_0DAP
+ 8    30 FE005 AP001     1 200.0   -99   -99   -99   -99   -99 Urea_200_30DAP
+
+*SIMULATION CONTROLS
+@N GENERAL     NYERS NREPS START SDATE RSEED SNAME.................... SMODEL
+ 1 GE              1     1     S 180001  2150 Rainfed                    MZCER
+@N OPTIONS     WATER NITRO SYMBI PHOSP POTAS DISES  CHEM  TILL   CO2
+ 1 OP              Y     Y     Y     N     N     N     N     N     M
+@N METHODS     WTHER INCON LIGHT EVAPO INFIL PHOTO HYDRO NSWIT MESOM MESEV MESOL
+ 1 ME              M     M     E     R     S     C     R     1     P     S     2
+@N MANAGEMENT  PLANT IRRIG FERTI RESID HARVS
+ 1 MA              R     A     D     N     M
+@N OUTPUTS     FNAME OVVEW SUMRY FROPT GROUT CAOUT WAOUT NIOUT MIOUT DIOUT VBOSE CHOUT OPOUT FMOPT
+ 1 OU              N     N     Y     1     N     N     N     N     N     N     N     N     N     C
+  
+@  AUTOMATIC MANAGEMENT
+@N PLANTING    PFRST PLAST PH2OL PH2OU PH2OD PSTMX PSTMN
+ 1 PL          10060 10150    10   100    30    40    10
+@N IRRIGATION  IMDEP ITHRL ITHRU IROFF IMETH IRAMT IREFF
+ 1 IR             30    50   100 GS000 IR001    10   1.0
+@N NITROGEN    NMDEP NMTHR NAMNT NCODE NAOFF
+ 1 NI             30    10    50 FE001 GS000
+@N RESIDUES    RIPCN RTIME RIDEP
+ 1 RE            100     1    20
+@N HARVEST     HFRST HLAST HPCNP HPCNR
+ 1 HA              0   -99   100     0
