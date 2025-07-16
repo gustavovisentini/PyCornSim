@@ -12,7 +12,7 @@ class SoilProfileFinder:
         self.file_path = file_path
 
     def haversine_distance(self, lat1, lon1, lat2, lon2):
-        R = 6371  # Raio da Terra em km
+        R = 6371  # radius of the earth in km
         phi1 = math.radians(lat1)
         phi2 = math.radians(lat2)
         delta_phi = math.radians(lat2 - lat1)
